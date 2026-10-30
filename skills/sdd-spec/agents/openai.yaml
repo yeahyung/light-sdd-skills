@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDD 명세"
+  short_description: "요구사항과 실제 데이터를 검증 가능한 구현 명세로 정리합니다"
+  default_prompt: "$sdd-spec problem.md와 지정된 자료로 spec.md를 작성해 줘."

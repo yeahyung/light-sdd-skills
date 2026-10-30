@@ -1,0 +1,4 @@
+interface:
+  display_name: "SDD 검증"
+  short_description: "명세와 코드 및 실행 결과를 대조해 누락과 전달 준비 상태를 확인합니다"
+  default_prompt: "$sdd-verify 현재 구현의 필수 요구사항과 실행 상태를 확인해 줘."
